@@ -1,0 +1,17 @@
+{
+  "name": "ahutchison/observer-pattern",
+  "authors": [
+    {
+      "name": "adam.hutchison",
+      "email": "adam.hutchison@netsells.co.uk"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "classmap": [
+      "Interfaces",
+      "Observers",
+      "Subjects"
+    ]
+  }
+}
